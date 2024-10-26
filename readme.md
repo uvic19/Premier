@@ -2,6 +2,9 @@
 
 A modern, sleek website designed for Premier Models, showcasing the agency's portfolio, team, updates, and blog in a highly visual and interactive layout. The site includes sections for model photography, video highlights, recent news, and team member profiles with smooth scrolling and intuitive navigation.
 
+[**Live Demo**](https://uvic19.github.io/Premier/)
+
+
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
